@@ -1,2 +1,6 @@
 # nfc_device_connect
-to create a programm connect nf device using python and django framework
+Requirements:-
+1. pip install python
+2. pip install django
+3. pip install nfcpy
+
